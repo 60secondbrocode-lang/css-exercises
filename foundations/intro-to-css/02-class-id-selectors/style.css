@@ -2,7 +2,7 @@
 
 .odd-no{
     background-color: lightpink;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .font-size{
@@ -18,5 +18,5 @@
 
 #even-no-four{
     background-color: lightgreen;
-    font-weight: 700;
+    font-weight: bold;
 }
